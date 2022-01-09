@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+image_width: 1624
+image_height: 1450
+camera_name: fisheye_right
+camera_matrix: !!opencv-matrix
+  rows: 3
+  cols: 3
+  dt: d
+  data: [980.94686384, 0, 809.52663786, 0, 975.8704214, 759.40653243, 0, 0, 1]
+distortion_model: equidistant
+distortion_coefficients: !!opencv-matrix
+  rows: 1
+  cols: 4
+  dt: d
+  data: [-0.32048808, -0.00953996, -0.00168821, 0.00072801]
+rectification_matrix: !!opencv-matrix
+  rows: 3
+  cols: 3
+  dt: d
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix: !!opencv-matrix
+  rows: 3
+  cols: 4
+  dt: d
+  data: [980.94686384, 0, 809.52663786, 0, 0, 975.8704214, 759.40653243, 0, 0, 0, 1, 0]

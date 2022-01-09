@@ -1,0 +1,2 @@
+fisheye_synchronization_correction
+-DCATKIN_DEVEL_PREFIX=/home/hans/adp_150-20/devel -DCMAKE_INSTALL_PREFIX=/home/hans/adp_150-20/install -G Unix Makefiles
