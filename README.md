@@ -13,9 +13,7 @@ We have investigated and compared different fisheye camera correction and image 
 ### Stitching pipeline
 
 <p float="left">
-  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/stitching_pipeline.jpg
-" width="500" height="350"/>
-  <img src="https://github.com/LiLiu1118/Machine-Learning-Gruppenarbeit/blob/main/Abbildungen/WindRosePark2.png"  width="300" height="200" /> 
+  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/stitching_pipeline.jpg" width="500" height="350"/>
 </p>
 
 
