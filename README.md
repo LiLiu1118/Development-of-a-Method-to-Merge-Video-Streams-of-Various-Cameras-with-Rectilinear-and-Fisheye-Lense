@@ -18,7 +18,7 @@ We have investigated and compared different fisheye camera correction and image 
 
 ### Feature matching
 <p float="left">
-  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/Comparison_with_and_without_RANSAC.jpg" width="500" height="550"/>
+  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/Comparison_with_and_without_RANSAC.jpg" width="800" height="350"/>
 </p>
 
 ### Different images sets
