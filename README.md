@@ -5,7 +5,8 @@
 4. [Member](#member)
 
 ## Introduction 
-This ROS project is the workspace of Advanced Design Project "Development of a Method to Merge Video Streams of Various Cameras with Rectilinear and Fisheye Lenses". Only one package has been implemented so far, which realizes fisheye camera images synchronization and correction with OpenCV and the ROS framework. If you want to use the functions, you also need the calibration data of the camera.
+From this ADP, we have investigated and compared different fisheye camera correction and image stitching methods. Besides, we used the fisheye images as well as the images taken by ourselves to verify the effectiveness of different algorithms. Although the image stitching results are not ideal, we explored the origin behind it. In the implementation procedure, we have a deep understanding of the applicable conditions of homography and the influencing factors that affect the feature points detection and matching process. After extensively reading the relevant literature and debugging different algorithms, we have a broad understanding of commonly used image stitching methods and their respective theories. In addition, we implemented image synchronization and rectification with the help of OpenCV under the ROS framework. The architecture of \acrshort{ROS} makes it more convenient to deploy this function on different platforms.
+
 
 ## Usage 
 Firstly you need to create a ROS workspace, please refer to [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials).
