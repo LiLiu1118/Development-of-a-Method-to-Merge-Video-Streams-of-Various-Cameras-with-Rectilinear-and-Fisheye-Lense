@@ -18,7 +18,7 @@ We have investigated and compared different fisheye camera correction and image 
 
 ### Experiment panorama
 <p float="left">
-  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/experiment_panorama.pngg" width="800" height="350"/>
+  <img src="https://github.com/LiLiu1118/Development-of-a-Method-to-Merge-Video-Streams-of-Various-Cameras-with-Rectilinear-and-Fisheye-Lense/blob/main/experiment_panorama.png" width="800" height="350"/>
 </p>
 
 ### Different images sets
